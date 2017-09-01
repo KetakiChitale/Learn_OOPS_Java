@@ -6,7 +6,7 @@ package concepts_OOPS;
 public class OOPS1_Constructor {
 	String name;
 	OOPS1_Constructor(){
-		this.name = "Simple Constructor";
+		this.name = "Simple Constructor"; //"this" should be always the first statement in the constructor
 	}
 	
 	public static void main(String[] args){
