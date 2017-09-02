@@ -1,12 +1,12 @@
 package concepts_OOPS;
 /*Constructor - 
- *A constructor resembles an instance method in java but it’s not a method as it doesn’t have a return type.
+ *A constructor resembles an instance method in java but itâ€™s not a method as it doesnâ€™t have a return type.
  *Constructor has same name as the class. */
 
 public class OOPS1_Constructor {
 	String name;
 	OOPS1_Constructor(){
-		this.name = "Simple Constructor"; //"this" should be always the first statement in the constructor
+		this.name = "Simple Constructor"; //"this" should always be the first statement in the constructor
 	}
 	
 	public static void main(String[] args){
